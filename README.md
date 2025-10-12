@@ -9,5 +9,5 @@ Next, a simple simple condition based monitoring(Threshold based) of assets is i
 
 https://link.springer.com/article/10.1007/s40436-022-00433-x#Fig3
 
-2. Challenges
+2. Challenges  
    a) How do you decide on which assets in your production line will benefit with Predictive Maintenance? 
