@@ -7,7 +7,7 @@ Predictive maintenance of assets is a technique where in the working conditions 
 Once the real time data is in place, it is checked for its quality and is further preprocessed i.e aggregated, new features extracted etc
 Next, a simple simple condition based monitoring(Threshold based) of assets is implemented(This is the most low hanging fruit). We then make the process more smarter taking it to the next level i.e  with the help of machine learning and deep learning models , the prediction of the working state of the assets is done. The models can predict the remaining useful life of the asset with the required accuracy, helping the maintenance managers to plan for the downtime and to have the least number of downtimes that have the minimal impact on the production schedules and quality of the finished product. 
 
-<a href="https://link.springer.com/article/10.1007/s40436-022-00433-x">Clickable Text</a>
+<a href="https://link.springer.com/article/10.1007/s40436-022-00433-x">Application of sensor data based predictive maintenance and artificial neural networks to enable Industry 4.0</a>
 
 
 <a href="[https://web.site]https://link.springer.com/article/10.1007/s40436-022-00433-x">Clickable Text</a>
