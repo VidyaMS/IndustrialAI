@@ -10,7 +10,7 @@ Next, a simple simple condition based monitoring(Threshold based) of assets is i
 <a href="https://link.springer.com/article/10.1007/s40436-022-00433-x">Application of sensor data based predictive maintenance and artificial neural networks to enable Industry 4.0</a>
 
 
-<a href="[https://web.site]https://link.springer.com/article/10.1007/s40436-022-00433-x">Clickable Text</a>
+
 
 
 2. Further research    
