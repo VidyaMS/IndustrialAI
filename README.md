@@ -18,4 +18,15 @@ Next, a simple simple condition based monitoring(Threshold based) of assets is i
 
 ### 2. Further research    
    a) How do you decide on which assets in your production line will benefit with Predictive Maintenance?  
+
+Traditionally FMEA and FMECA help in identifying which asset in the production system is 'Critical', in the sense, if the asset fails the production halts, has high costs for repair and replacement , leads to quality issues , wastage and loss of revenue. The analysis leads to a Risk Priority Number(RPN). The higher the number more critical is the asset and smart asset maintenance is inevitable. 
+Reactive Asset maintenance should be a strict no and other proactive techniques starting with Condition based Maintenance , and further leading to predictive maintenance needs to be tried and tested.
+
+Deciding on the right asset maintenance technique needs to be driven by a framework. The framework is guided by the matching of the ambition level and the data readiness. 
+
+<a href="https://www.researchgate.net/publication/368320424_Decision_Framework_for_Predictive_Maintenance_Method_Selection">Decision Framework for Predictive Maintenance Method Selection</a>
+
+   
    b) What are some of the challenges that can be solved with the help of Generative AI?  
+
+   
