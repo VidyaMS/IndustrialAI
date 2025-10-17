@@ -30,6 +30,6 @@ Deciding on the right asset maintenance technique needs to be driven by a framew
    b) What are some of the most common challenges in production ? Can they be addressed with Generative AI ? 
 
 ## B] Sustainable Manufacturing:  
-   a) Can every process of the product life cycle be made sustainable ? From the product design, manufacturing , delivery and the end of life ? Can we easily acquire the necessary data from the existing IT , OT systems for understanding the  existing level of sustainability and provide visibility ? How can we then automate and improvise further to attain higher levels ? 
+   a) Can every process of the product life cycle be made sustainable ? From the product design, manufacturing , delivery and the end of life ? Can we easily acquire the necessary data from the existing IT , OT systems for understanding the  existing level of sustainability and provide the visibility ? How can we then automate and improvise further to attain higher levels ? 
 
    
