@@ -27,6 +27,7 @@ Deciding on the right asset maintenance technique needs to be driven by a framew
 <a href="https://www.researchgate.net/publication/368320424_Decision_Framework_for_Predictive_Maintenance_Method_Selection">Decision Framework for Predictive Maintenance Method Selection</a>
 
    
-   b) What are some of the challenges that can be solved with the help of Generative AI?  
+   b) What are some of the most common challenges in production ? Can they be addressed with Generative AI ? 
+   C) Can every process of the product life cycle be made sustainable ? From the product design, manufacturing , delivery and the end of life ? Can we easily acquire the necessary data for understanding the  existing level of sustainability and provide visibility ? How can we then improvise further to attain higher levels ?
 
    
