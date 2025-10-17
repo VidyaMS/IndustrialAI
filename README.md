@@ -1,8 +1,6 @@
-# Industrial AI Research
-
-
+# Industrial AI - From Research to Market
                                                         
-This is a synthesis of knowledge contained in some of the good scientific papers that help solving manufacturing problems with data and AI . The notion of a new technolgy that can disrupt a manufacturing process is also delved upon.
+This is a synthesis of knowledge contained in some of the innovative scientific papers that help solving manufacturing problems with data and AI . The notion of a new technolgy that can disrupt a manufacturing process is also delved upon.
 
 ## A] Predictive Maintenance:  
 ### 1. The What, Why and How    
