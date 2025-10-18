@@ -1,6 +1,6 @@
-# Industrial AI - From Research to Market
+# From Research to Market
                                                         
-This is a synthesis of knowledge contained in some of the innovative scientific papers that help solving manufacturing problems with data and AI . The notion of a new technolgy that can disrupt a manufacturing process is also delved upon.
+Innovation is always fuelled by research. One of the efforts of a research is to commercialise the innovation. Hence, this is a synthesis of knowledge contained in some of the innovative scientific papers that help solving manufacturing problems with data and AI . The notion of a new technolgy that can disrupt a manufacturing process is also delved upon.
 
 ## A] Predictive Maintenance:  
 ### 1. The What, Why and How    
@@ -15,7 +15,7 @@ Next, a simple simple condition based monitoring(Threshold based) of assets is i
 
 
 ### 2. Further research    
-   a) How do you decide on which assets in your production line will benefit with Predictive Maintenance?  
+a) How do you decide on which assets in your production line will benefit with Predictive Maintenance?  
 
 Traditionally FMEA and FMECA help in identifying which asset in the production system is 'Critical', in the sense, if the asset fails the production halts, has high costs for repair and replacement , leads to quality issues , wastage and loss of revenue. The analysis leads to a Risk Priority Number(RPN). The higher the number more critical is the asset and smart asset maintenance is inevitable. 
 Reactive Asset maintenance should be a strict no and other proactive techniques starting with Condition based Maintenance , and further leading to predictive maintenance needs to be tried and tested.
@@ -24,14 +24,19 @@ Deciding on the right asset maintenance technique needs to be driven by a framew
 
 <a href="https://www.researchgate.net/publication/368320424_Decision_Framework_for_Predictive_Maintenance_Method_Selection">Decision Framework for Predictive Maintenance Method Selection</a>
 
+b) What are the benefits of a predictive maintenance platform? 
+
+Should a company invest in a predictive maintenamce platform versus implementimng predictive maintenance of the asset which is the biggest bottle neck ? The following paper susggests that the value delivered through such a platform is more compounded as the platform can help in addressing multiple bottle necks on the plant floor . Selection of sensor type and placement is supported by FMECA or FMESA as presented in the standard ISO 17359:2018. If the costs justify, a predictive maintenance platform improves the value chain performance and provides contextual asset data. 
+
+<a href="https://link.springer.com/article/10.1007/s40436-022-00433-x#Fig3">Application of sensor data based predictive maintenance and artificial neural networks to enable Industry 4.0</a>
    
-   b) What are the challenges with PdM ? 
+c) What are the challenges with PdM ? 
 
-   Although predictive maintenance is the most efficient way of managing the working of an asset, it has a few limitations. The following paper delves further on the topic by reaching out to the industry and getting the pulse from the maintenance professionals . Its worth exploring further on if Generative AI can help in 'lack of capacity and skilled workers' by helping in SOP training, fault diagnosis etc .
+Although predictive maintenance is the most efficient way of managing the working of an asset, it has a few limitations. The following paper delves further on the topic by reaching out to the industry and getting the pulse from the maintenance professionals . Its worth exploring further on if Generative AI can help in 'lack of capacity and skilled workers' by helping in SOP training, fault diagnosis etc .
 
-   <a href="https://link.springer.com/article/10.1007/s41471-024-00204-3?">Unlocking the Potential of Predictive Maintenance for Intelligent Manufacturing: a Case Study On Potentials, Barriers, and Critical Success Factors</a> 
+<a href="https://link.springer.com/article/10.1007/s41471-024-00204-3?">Unlocking the Potential of Predictive Maintenance for Intelligent Manufacturing: a Case Study On Potentials, Barriers, and Critical Success Factors</a> 
 
 ## B] Sustainable Manufacturing:  
-   a) Can every process of the product life cycle be made sustainable ? From the product design, manufacturing , delivery and the end of life ? Can we easily acquire the necessary data from the existing IT , OT systems for understanding the  existing level of sustainability and provide the visibility ? How can we then automate and improvise further to attain higher levels ? 
+a) Can every process of the product life cycle be made sustainable ? From the product design, manufacturing , delivery and the end of life ? Can we easily acquire the necessary data from the existing IT , OT systems for understanding the  existing level of sustainability and provide the visibility ? How can we then automate and improvise further to attain higher levels ? 
 
    
