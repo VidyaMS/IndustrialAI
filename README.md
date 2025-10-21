@@ -1,6 +1,6 @@
-# From Research to Market
+# From Research to The Market
                                                         
-Innovation is always fuelled by research. One of the efforts of a research is to commercialise the innovation. Hence, this is a synthesis of knowledge contained in some of the innovative scientific papers that help solving manufacturing problems with data and AI . The notion of a new technolgy that can disrupt a manufacturing process is also delved upon.
+Innovation is always fuelled by research. One of the goals of research is to commercialise the innovation so that the benefits are reaped by the masses and gives rise to scalability. Hence, this is a synthesis of knowledge contained in some of the innovative scientific papers that help solving manufacturing problems with data and AI . The notion of a new technolgy that can disrupt a manufacturing process is also delved upon.
 
 ## A] Predictive Maintenance:  
 ### 1. The What, Why and How    
