@@ -42,7 +42,7 @@ Although predictive maintenance is the most efficient way of managing the workin
 a)Can we easily acquire the necessary data from the existing IT , OT systems for understanding the  existing level of sustainability and provide the required visibility ?  
 b)How can we then automate and optimize the process further?  
 
-Data related to product sustainability - regarding material, design, manufacturing processes, distribution , usage etc lies in in different systems. There is a need to have a unified view of the data with contextuality. Technolgy such as digital twin plays an important role. The data unification can be virtual as in the case of Unified Name Space.  
+Data related to product sustainability - regarding material, design, manufacturing processes, distribution , usage etc lies in in different systems. There is a need to have a unified view of the data with contextuality. Technolgy such as digital twin plays an important role. The data unification can be virtual as in the case of <a href="https://www.iiot.university/blog/what-is-uns%3F"> Unified Name Space </a> 
   
 <a href="https://www.mdpi.com/2071-1050/17/16/7316">A Review of Digital Twin Integration in Circular Manufacturing for Sustainable Industry Transition</a> Enabling sustainability in manufacturing with digital twin frameworks that deliver incremental value.
 
