@@ -37,6 +37,15 @@ Although predictive maintenance is the most efficient way of managing the workin
 <a href="https://link.springer.com/article/10.1007/s41471-024-00204-3?">Unlocking the Potential of Predictive Maintenance for Intelligent Manufacturing: a Case Study On Potentials, Barriers, and Critical Success Factors</a> 
 
 ## B] Sustainable Manufacturing:  
-a) Can every process of the product life cycle be made sustainable ? From the product design, manufacturing , delivery and the end of life ? Can we easily acquire the necessary data from the existing IT , OT systems for understanding the  existing level of sustainability and provide the visibility ? How can we then automate and improvise further to attain higher levels ? 
+### Sustainability in manufacturing as a 'default' mode. 
+
+a)Can we easily acquire the necessary data from the existing IT , OT systems for understanding the  existing level of sustainability and provide the required visibility ?  
+b)How can we then automate and optimize the process further?  
+
+Data related to product sustainability - regarding material, design, manufacturing processes, distribution , usage etc lies in in different systems. There is a need to have a unified view of the data with contextuality. Technolgy such as digital twin plays an important role. The data unification can be virtual as in the case of Unified Name Space.  
+  
+<a href="https://www.mdpi.com/2071-1050/17/16/7316">A Review of Digital Twin Integration in Circular Manufacturing for Sustainable Industry Transition</a> Enabling sustainability in manufacturing with digital twin frameworks that deliver incremental value.
+
+<a href="https://link.springer.com/article/10.1007/s00170-022-09295-w"> A generic asset model for implementing product digital twins in smart remanufacturing </a> How can product digital twin  enable smarter remanufacturing . This paper provides a guideline of  building digital twin to mitigate some of the challenges.      
 
    
