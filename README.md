@@ -52,3 +52,9 @@ Data related to product sustainability - regarding material, design, manufacturi
 
 <a href="https://www.researchgate.net/publication/396407930_Sustainable_mechanical_design_and_manufacturing_of_pressure_relief_valves"> Valves- a suitable candidate for sustainable redesign and manufacturing </a> 
 Valve manufacturimng is quite a carbon intensive process,  considering the material used and the manufacturing process. The traditional design consists of many parts that are assembled.  Also , industrial valves are prone for fugitive emissions - especially with most emissions coming from valve stems and fittings (joints). Redesigning valves for sustainability requires a comprehensive approach that considers the entire lifecycle of the valve, from raw material sourcing to end-of-life disposal. Sustainable redesign of pressure relief valves considers eco raw material such as polymers that have chemical and heat resistance , resulting  in fewer valve parts, easier assembly, less weight, and lower cost. 
+
+<a href="https://www.sciencedirect.com/science/article/pii/S2352550924001283"> Sustainability risk assessment in manufacturing: A Life Cycle Assessment-based Failure Mode and Effects Analysis approach</a> LCA based FMEA for calculating the sustainability risks. 
+
+<a href="https://link.springer.com/article/10.1007/s00163-025-00458-w"> Proposing a carbon reduction engineering framework for product design: a multi-scenario perspective </a> How do we begin with redesigning a product for sustainability ? 
+
+
