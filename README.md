@@ -59,8 +59,11 @@ How do we begin with redesigning a product for sustainability ? <a href="https:/
 
 ### About: 
 I am Vidya. I am engineer who started her career in software engineering. I have worked on design, development and maintenance of financial applications and ERP software. The most exciting career role was my work as system business anayst, where in I mapped the business requirements to the software product features and lead my team in building, testing and productionising those features. 
-I have subsequently moved to data domain, and mastered data analytics , machine learning and deep learning through various projects and work experience . Post my MSc in Digital Transformation and Smart Industries at National Univerisity of Singapore (2024), I am passionately working on Industrial AI Research, with the sole aim of leveraging the industrial data to solve the production problems. Keen to collaborate with companies on Industrial DataOps and AI.
+I have subsequently moved to data domain, and mastered data analytics , machine learning and deep learning through various projects and work experience . Post my MSc in Digital Transformation and Smart Industries at National Univerisity of Singapore (2024), I am passionately working on Industrial AI Research, with the sole aim of leveraging the industrial data to solve the production problems. The goal is advance every factory to a smart and sustainable one. Keen to collaborate with companies on Industrial DataOps and AI.
 
 ### Contact: 
 vidya.industrialairesearch@gmail.com
+#### LinkedIn:
+https://www.linkedin.com/in/vidya-m-shankar/
+
 
