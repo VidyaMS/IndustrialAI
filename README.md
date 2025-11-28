@@ -42,8 +42,6 @@ Although predictive maintenance is the most efficient way of managing the workin
 a)Can we easily acquire the necessary data from the existing IT , OT systems for understanding the  existing level of sustainability and provide the required visibility ?  
 b)How can we then automate and optimize the process further?  
 
-Data related to product sustainability - regarding material, design, manufacturing processes, distribution , usage etc lies in in different systems. There is a need to have a unified view of the data with contextuality. Technolgy such as digital twin plays an important role. The data unification can be virtual as in the case of <a href="https://www.iiot.university/blog/what-is-uns%3F"> Unified Name Space </a> 
-  
 <a href="https://www.mdpi.com/2071-1050/17/16/7316">A Review of Digital Twin Integration in Circular Manufacturing for Sustainable Industry Transition</a> Enabling sustainability in manufacturing with digital twin frameworks that deliver incremental value.
 
 <a href="https://link.springer.com/article/10.1007/s00170-022-09295-w"> A generic asset model for implementing product digital twins in smart remanufacturing </a> How can product digital twin  enable smarter remanufacturing . This paper provides a guideline of  building digital twin to mitigate some of the challenges.      
@@ -57,9 +55,15 @@ LCA based FMEA for calculating the sustainability risks.<a href="https://www.sci
 
 How do we begin with redesigning a product for sustainability ? <a href="https://link.springer.com/article/10.1007/s00163-025-00458-w"> Proposing a carbon reduction engineering framework for product design: a multi-scenario perspective </a> 
 
+LCA that spans the entire value chain and integrating LCA data during design for manufacturing - these two approaches ensures that the sustainability metrics such as carbon emission per part, energy consumption, scrap rate % also are included along with DFM metrics, during prototyping, testing and final design freeze. <a href="https://arxiv.org/abs/2503.14893"> Incorporating Sustainability in Electronics Design: Obstacles and Opportunities <a/>
+
+## Technology 
+
+Industrial data resides in the various Operational Technolgy (OT) and Information Technology (IT) systems i.e data regarding the machine operations on the production floor is made available through Programmable Logic Controller (PLC) and Supervisory Control and Data Acquisition (SCADA) system. Data regarding material, design, manufacturing processes, distribution , usage etc lies in in different IT systems such as Manufacturing Execution System (MES), Material Resource Planning (MRP), Enterprise Resource Planning (ERP). There is a need to unify the data existing in different silos for the purpose of analysis and decision making. The data unification can be achieved without the actual complex mutual integration with the help of <a href="https://www.iiot.university/blog/what-is-uns%3F"> Unified Name Space </a>.Technolgy such as digital twin plays an important role in data interoperability <a href="https://industrialdigitaltwin.org/en/"> Industrial Digital Twin <a/>
+
 ### About: 
 I am Vidya. I am engineer who started her career in software engineering. I have worked on design, development and maintenance of financial applications and ERP software. The most exciting career role was my work as a product owner, where in I mapped the business requirements to the software product features and lead my team in building, testing and productionising those features. 
-I have subsequently moved to data domain, and mastered data analytics , machine learning and deep learning through various projects and work experience . Post my MSc in Digital Transformation and Smart Industries at National Univerisity of Singapore (2024), I am passionately working on Industrial AI Research, with the sole aim of leveraging the industrial data to solve the production problems. The goal is advance every factory to a smart and sustainable one. Keen to collaborate with companies on Industrial DataOps and AI.
+I have subsequently moved to data domain, and mastered data analytics , machine learning and deep learning through various projects and work experience . Post my MSc in Digital Transformation and Smart Industries at National Univerisity of Singapore (2024), I am passionately working on Industrial AI Research, with the sole aim of leveraging the industrial data to solve the production problems. The goal is to advance every factory to a smart and sustainable one. Keen to collaborate with companies on Industrial DataOps and AI.
 
 ### Contact: 
 vidya.industrialairesearch@gmail.com
