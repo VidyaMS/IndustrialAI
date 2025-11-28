@@ -53,7 +53,7 @@ Valve manufacturimng is quite a carbon intensive process,  considering the mater
 
 LCA based FMEA for calculating the sustainability risks.<a href="https://www.sciencedirect.com/science/article/pii/S2352550924001283"> Sustainability risk assessment in manufacturing: A Life Cycle Assessment-based Failure Mode and Effects Analysis approach</a>  
 
-How do we begin with redesigning a product for sustainability ? <a href="https://link.springer.com/article/10.1007/s00163-025-00458-w"> Proposing a carbon reduction engineering framework for product design: a multi-scenario perspective </a> 
+How do we begin redesigning a product for sustainability ? <a href="https://link.springer.com/article/10.1007/s00163-025-00458-w"> Proposing a carbon reduction engineering framework for product design: a multi-scenario perspective </a> 
 
 LCA that spans the entire value chain and integrating LCA data during design for manufacturing - these two approaches ensures that the sustainability metrics such as carbon emission per part, energy consumption, scrap rate % also are included along with DFM metrics, during prototyping, testing and final design freeze. <a href="https://arxiv.org/abs/2503.14893"> Incorporating Sustainability in Electronics Design: Obstacles and Opportunities <a/>
 
