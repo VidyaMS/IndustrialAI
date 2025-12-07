@@ -59,7 +59,7 @@ LCA that spans the entire value chain and integrating LCA data during design for
 
 <embed src="Sustainable_Product_Design_System_Architecture.pdf" width="100%" height="600px" type="application/pdf">
 
-
+<a href="Sustainable_Product_Design_System_Architecture.pdf" target="_blank">View PDF</a>
 
   ## Technology 
 
