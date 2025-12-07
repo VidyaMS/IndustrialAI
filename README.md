@@ -57,7 +57,11 @@ How do we begin redesigning a product for sustainability ? <a href="https://link
 
 LCA that spans the entire value chain and integrating LCA data during design for manufacturing - these two approaches ensures that the sustainability metrics such as carbon emission per part, energy consumption, scrap rate % also are included along with DFM metrics, during prototyping, testing and final design freeze. <a href="https://arxiv.org/abs/2503.14893"> Incorporating Sustainability in Electronics Design: Obstacles and Opportunities <a/>
 
-## Technology 
+<embed src="Sustainable_Product_Design_System_Architecture.pdf" width="100%" height="600px" type="application/pdf">
+
+
+
+  ## Technology 
 
 Industrial data resides in the various Operational Technolgy (OT) and Information Technology (IT) systems i.e data regarding the machine operations on the production floor is made available through Programmable Logic Controller (PLC) and Supervisory Control and Data Acquisition (SCADA) system. Data regarding material, design, manufacturing processes, distribution , usage etc lies in in different IT systems such as Manufacturing Execution System (MES), Material Resource Planning (MRP), Enterprise Resource Planning (ERP). There is a need to unify the data existing in different silos for the purpose of analysis and decision making. The data unification can be achieved without the actual complex mutual integration with the help of <a href="https://www.iiot.university/blog/what-is-uns%3F"> Unified Name Space </a>.Technolgy such as digital twin plays an important role in data interoperability <a href="https://industrialdigitaltwin.org/en/"> Industrial Digital Twin <a/>
 
