@@ -61,6 +61,9 @@ LCA that spans the entire value chain and integrating LCA data during design for
 
 <a href="Sustainable_Product_Design_System_Architecture.pdf" target="_blank">Sustainable Product Design Architecture</a>
 
+Extracting design optimization insights from machine process data.
+<a href="https://arxiv.org/pdf/2512.09690"> A data-driven approach to linking design features with manufacturing process data for sustainable product development. </a>  Guiding sustainable product design with data driven techniques by integrating the product features with the corresponding manufacturing process data. 
+The AI model trained on the CAD data and the IOT sensor values from the production floor helps in predicting the sustainability impact of the new product design.This enables automated design improvement suggestions.The feature space can be expanded further by including the material details such as density, recyclability, carbon footprint, wastage etc to refine the product design on the sustainability metrics.
 
 ## Technology 
 
