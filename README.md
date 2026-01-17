@@ -69,6 +69,13 @@ The AI model trained on the CAD data and the IOT sensor values from the producti
 
 Industrial data resides in the various Operational Technolgy (OT) and Information Technology (IT) systems i.e data regarding the machine operations on the production floor is made available through Programmable Logic Controller (PLC) and Supervisory Control and Data Acquisition (SCADA) system. Data regarding material, design, manufacturing processes, distribution , usage etc lies in in different IT systems such as Manufacturing Execution System (MES), Material Resource Planning (MRP), Enterprise Resource Planning (ERP). There is a need to unify the data existing in different silos for the purpose of analysis and decision making. The data unification can be achieved without the actual complex mutual integration with the help of <a href="https://www.iiot.university/blog/what-is-uns%3F"> Unified Name Space </a>.Technolgy such as digital twin plays an important role in data interoperability <a href="https://industrialdigitaltwin.org/en/"> Industrial Digital Twin <a/>
 
+### Agentic AI
+
+How can agentic AI help in Predictive Maintenance ? This paper presents a hybrid agentic AI and multi-agent framework for a Prescriptive Maintenance (RxM) use case, where LLM based agents provide strategic orchestration and adaptive reasoning, complemented by rule-based and Small Language Models (SLMs) agents performing efficient, domain-specific tasks on the edge. 
+<a href="https://arxiv.org/pdf/2511.18258"> Hybrid Agentic AI and Multi-Agent Systems in Smart Manufacturing </a>
+
+
+
 ### About: 
 I am Vidya. I am working on Industrial AI research. My work begins with understanding the gaps in OT, IT systems, implementing industrial DataOps, Digital Twin for an interconnected value chain. Also, the goal is to leverage AI's predictive capabilities and the ability to simplify the execution, resulting in more smart, accurate and robust systems. Sustainability is not considered as a seperate entity but is woven in all the aspects of the value chain.Previous to my current work, I have worked on building software applications in the finance industry as well on ERP applications. Keen to collaborate with companies on Industrial DataOps and AI.
 
