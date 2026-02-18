@@ -69,6 +69,7 @@ The AI model trained on the CAD data and the IOT sensor values from the producti
 
 The sustainability metrics can be divided into four categories: 1. Material, 2. Production 3. Use 4. End of Life . Each of them have further sub categories. For eg , Material - a) Material Origin b) Material property, c) Use of material - quantity d) Use of material - type. During the conceptual  product design, each of the category receives a rating/score. The design with the highest total score is qualified to be the most sustainable. 
 <a href="https://www.mdpi.com/1996-1073/14/12/3469"> Metrics for Measuring Sustainable Product Design Concepts <a/>
+This rating can be more robust and automated with the integration of database such as material database, design systems such as CAD, LCA database etc.
 
 ## Technology 
 
