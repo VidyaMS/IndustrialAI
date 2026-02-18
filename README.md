@@ -71,6 +71,9 @@ The sustainability metrics can be divided into four categories: 1. Material, 2. 
 <a href="https://www.mdpi.com/1996-1073/14/12/3469"> Metrics for Measuring Sustainable Product Design Concepts <a/>  
 This rating can be more robust and automated with the integration of database such as material database, design systems such as CAD, LCA database etc.
 
+### Sustainability measure during 3D printing
+Measuring the energy consumption during 3D printing of a product while varying the product dimensions as well as the process parameters such as infill, layer height and scale helps in estimating the Global Warming Potential(GWP) of the product. The architecture needed for such data collection is described in the following scientific paper <a href="https://www.sciencedirect.com/science/article/pii/S2212827122000476?via%3Dihub"> Live Life Cycle Assessment Implementation using Cyber Physical Production System Framework for 3D Printed Products <a/> 
+
 ## Technology 
 
 Industrial data resides in the various Operational Technolgy (OT) and Information Technology (IT) systems i.e data regarding the machine operations on the production floor is made available through Programmable Logic Controller (PLC) and Supervisory Control and Data Acquisition (SCADA) system. Data regarding material, design, manufacturing processes, distribution , usage etc lies in in different IT systems such as Manufacturing Execution System (MES), Material Resource Planning (MRP), Enterprise Resource Planning (ERP). There is a need to unify the data existing in different silos for the purpose of analysis and decision making. The data unification can be achieved without the actual complex mutual integration with the help of
