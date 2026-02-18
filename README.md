@@ -68,11 +68,12 @@ The AI model trained on the CAD data and the IOT sensor values from the producti
 ### Sustainability Metrics
 
 The sustainability metrics can be divided into four categories: 1. Material, 2. Production 3. Use 4. End of Life . Each of them have further sub categories. For eg , Material - a) Material Origin b) Material property, c) Use of material - quantity d) Use of material - type. During the conceptual  product design, each of the category receives a rating/score. The design with the highest total score is qualified to be the most sustainable. 
-<a href="https://www.mdpi.com/1996-1073/14/12/3469> Metrics for Measuring Sustainable Product Design Concepts </a>
+<a href="https://www.mdpi.com/1996-1073/14/12/3469"> Metrics for Measuring Sustainable Product Design Concepts <a/>
 
 ## Technology 
 
-Industrial data resides in the various Operational Technolgy (OT) and Information Technology (IT) systems i.e data regarding the machine operations on the production floor is made available through Programmable Logic Controller (PLC) and Supervisory Control and Data Acquisition (SCADA) system. Data regarding material, design, manufacturing processes, distribution , usage etc lies in in different IT systems such as Manufacturing Execution System (MES), Material Resource Planning (MRP), Enterprise Resource Planning (ERP). There is a need to unify the data existing in different silos for the purpose of analysis and decision making. The data unification can be achieved without the actual complex mutual integration with the help of <a href="https://www.iiot.university/blog/what-is-uns%3F"> Unified Name Space </a>.Technolgy such as digital twin plays an important role in data interoperability <a href="https://industrialdigitaltwin.org/en/"> Industrial Digital Twin <a/>
+Industrial data resides in the various Operational Technolgy (OT) and Information Technology (IT) systems i.e data regarding the machine operations on the production floor is made available through Programmable Logic Controller (PLC) and Supervisory Control and Data Acquisition (SCADA) system. Data regarding material, design, manufacturing processes, distribution , usage etc lies in in different IT systems such as Manufacturing Execution System (MES), Material Resource Planning (MRP), Enterprise Resource Planning (ERP). There is a need to unify the data existing in different silos for the purpose of analysis and decision making. The data unification can be achieved without the actual complex mutual integration with the help of
+<a href="https://www.iiot.university/blog/what-is-uns%3F"> Unified Name Space </a>.Technolgy such as digital twin plays an important role in data interoperability <a href="https://industrialdigitaltwin.org/en/"> Industrial Digital Twin <a/>
 
 ### Agentic AI
 
